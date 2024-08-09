@@ -7,7 +7,7 @@ Meu nome é Caren Marchiori
 - Estou me desenvolvendo na linguagem JavaScript
 ### Você pode entrar em contato comigo :mailbox
 
-0000112708012xsp@al.edycacao.sp.gov.br
+0000112708012xsp@al.educacao.sp.gov.br
 
 @carenmarchiori
 
